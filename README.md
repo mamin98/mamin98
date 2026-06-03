@@ -1,26 +1,22 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f4037,100:99f2c8&height=200&section=header&text=Mohamed%20Amin&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Mohamed%20Amin&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 # 💫 About Me:
-👋 Hi, I'm Mohamed Amin  
-
-💻 Backend .NET Developer with 3+ years of experience building scalable and maintainable systems.
+👋 Hi, I'm Mohamed Amin
+💻 .NET 8 Backend Engineer with 3+ years building production-grade SaaS platforms and distributed systems.
 
 🚀 I specialize in:
-- .NET 8 / C#  
-- RESTful APIs  
-- Clean Architecture & TDD  
-- PostgreSQL & SQL Server  
-- ABP Framework  
-- DevExpress  
-- Refactoring & maintaining legacy systems (.NET 3.1, 6)
+- .NET 8 / C# · ASP.NET Core Web API
+- Clean Architecture · SOLID Principles
+- Multi-Tenant SaaS · Event-Driven Design
+- RabbitMQ · Redis · PostgreSQL · SQL Server
+- ABP Framework · Entity Framework Core
 
-🛠️ I enjoy designing backend systems from scratch, improving performance, and transforming legacy code into clean, testable solutions.
+🛠️ Currently working on a production multi-tenant HR SaaS platform — designing core domain modules, async workflows, and scalable APIs.
 
-🌍 Currently focused on:
-- Improving my English communication skills  
-- Exploring job opportunities and relocation in Europe (Germany, Poland, Estonia)
+🌍 Open to opportunities and relocation in:
+- Germany · Poland · Ireland · Estonia
 
 📚 Always learning, always building.
 
@@ -38,10 +34,11 @@
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens)
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 
 ---
 
@@ -54,8 +51,12 @@
 ---
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mamin98&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false)  
-![](https://nirzak-streak-stats.vercel.app/?user=mamin98&theme=shadow_green&hide_border=false)  
+
+> 💼 Most of my production work lives in private repositories.
+> Public repos below reflect personal learning and side projects.
+
+![](https://github-readme-stats.vercel.app/api?username=mamin98&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false)
+![](https://nirzak-streak-stats.vercel.app/?user=mamin98&theme=shadow_green&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mamin98&theme=shadow_green&hide_border=false&layout=compact)
 
 ---
