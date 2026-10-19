@@ -9,14 +9,14 @@
 </p>
 
 <p align="center">
-  Backend engineer with 3.5+ years of experience building production-grade business applications and scalable APIs.
+  Backend engineer with 4 years of experience building production-grade business applications and scalable APIs.
 </p>
 
 ---
 
 ## 💫 About Me
 
-💻 I'm a **Senior .NET Backend Engineer** with 3.5+ years of professional experience building and maintaining business-critical applications.
+💻 I'm a **Senior .NET Backend Engineer** with 4 years of professional experience building and maintaining business-critical applications.
 
 🚀 My core expertise includes:
 
