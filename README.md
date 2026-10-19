@@ -184,9 +184,3 @@ RESTful Web API built with **ASP.NET Core, Entity Framework Core and Angular**, 
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=KareemEL-Dessouky&repo=Restaurant&theme=shadow_green&show_owner=true" />
   </a>
 </p>
-
----
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=mamin98&icon=0&color=0" />
-</p>
