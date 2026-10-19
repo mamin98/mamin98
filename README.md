@@ -171,9 +171,19 @@ RESTful Web API built with **ASP.NET Core, Entity Framework Core and Angular**, 
 
 ---
 
-### 🔝 Top Contributed Repo
+### 🔝 Featured Repositories
 
-![](https://github-contributor-stats.vercel.app/api?username=mamin98\&limit=5\&theme=dark\&combine_all_yearly_contributions=true)
+<p align="center">
+  <a href="https://github.com/mamin98/attendance-management-system">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mamin98&repo=attendance-management-system&theme=shadow_green" />
+  </a>
+  <a href="https://github.com/mamin98/BookStoreApp">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mamin98&repo=BookStoreApp&theme=shadow_green" />
+  </a>
+  <a href="https://github.com/KareemEL-Dessouky/Restaurant">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KareemEL-Dessouky&repo=Restaurant&theme=shadow_green&show_owner=true" />
+  </a>
+</p>
 
 ---
 
